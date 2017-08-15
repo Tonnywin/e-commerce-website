@@ -1,2 +1,2 @@
 # e-commerce-website
-this project is to prove html+css+jquery skills
+DIV+HTML搭建电商页面
